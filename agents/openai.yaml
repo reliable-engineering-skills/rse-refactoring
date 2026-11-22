@@ -1,0 +1,4 @@
+interface:
+  display_name: "RSE Refactoring"
+  short_description: "Behavior-preserving refactoring with before/after evidence"
+  default_prompt: "Use $rse-refactoring to restructure code one responsibility at a time with comparable checks."
